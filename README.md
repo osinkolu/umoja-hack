@@ -1,5 +1,5 @@
-# Hacks
-This repo contains my top winning  solutions from zindi hackathons
+#Umoja Hacks
+This repo contains team solo's best solutions for the umoja hack
 
 
 UmojaHack Nigeria: AXA Vehicle Insurance Claim Challenge by UmojaHack Africa:
