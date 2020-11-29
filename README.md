@@ -1,6 +1,6 @@
 #Umoja Hacks.
 
-This repo contains team solo's best solutions for the umoja hack
+This repo contains team solo's best solutions for the umoja hackathon, it is the combined effort of Fajamila Oluwadunsin, Okewunmi Paul and Olufemi Victor
 
 
 UmojaHack Nigeria: AXA Vehicle Insurance Claim Challenge by UmojaHack Africa:
